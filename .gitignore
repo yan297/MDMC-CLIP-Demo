@@ -1,0 +1,5 @@
+MDMC-CLIP-Demo/
+/data/*
+/model/*
+!/data/.gitkeep
+!/model/.gitkeep
